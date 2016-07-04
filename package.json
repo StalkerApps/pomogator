@@ -1,0 +1,33 @@
+{
+  "name": "POMOGATOR",
+  "date": "2015.05.26",
+  "version": "1.5.10",
+  "description": "Service provides the ability to use a range of services on your TV screen. You can order the delivery of products from the supermarket, ready meals from restaurants and much more.",
+  "author": {
+    "name": "StalkerApps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StalkerApps/pomogator.git"
+  },
+  "config": {
+    "type": "app",
+    "category": "apps",
+    "backgroundColor": "#00146f",
+    "name": "POMOGATOR",
+    "legacy": true,
+    "description": "Service provides the ability to use a range of services on your TV screen. You can order the delivery of products from the supermarket, ready meals from restaurants and much more.",
+    "icons": {
+      "paths": {
+        "480": "img/480/",
+        "576": "img/576/",
+        "720": "img/720/",
+        "1080": "img/1080/"
+      },
+      "states": {
+        "normal": "normal.png",
+        "active": "active.png"
+      }
+    }
+  }
+}
